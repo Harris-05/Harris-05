@@ -94,10 +94,6 @@ A second take on the same concept using Kotlin with a Firebase backend instead o
 ![Stars](https://img.shields.io/github/stars/Harris-05/Flow-Team-Management-App?style=flat-square)
 Kotlin Android app with a Kanban-style task dashboard, real-time push notifications (FCM), and a relational PHP/MySQL schema enforcing referential integrity.
 
-> 📌 **Pin these on your profile:** go to *Customize your pins* on your GitHub overview page and select AI Lecture Companion, Site Doctor, and QuizGen AI as your top three — they show the widest range (AI agents, RAG, and classical ML) in the fewest slots.
-
----
-
 ### GitHub Stats
 
 <p align="center">
